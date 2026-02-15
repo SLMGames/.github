@@ -14,7 +14,7 @@
 | --------------- | ------------------------------------------------------------------ |
 | Website         | [https://slm.games](https://slm.games)                             |
 | Twitter         | [https://slm.games/twitter](https://slm.games/twitter)             |
-| Telegram Global | [https://t.me/slm\_games](https://t.me/slm\_games)                 |
+| Telegram        | [https://slm.games/telegram](https://slm.games/telegram)           |
 
 ## Contracts
 
