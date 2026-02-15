@@ -13,7 +13,7 @@
 | **Community**   | Contact Address                                                    |
 | --------------- | ------------------------------------------------------------------ |
 | Website         | [https://slm.games](https://slm.games)                             |
-| Twitter         | [https://slm.games/x](https://slm.games/x) |
+| Twitter         | [https://slm.games/twitter](https://slm.games/twitter)             |
 | Telegram Global | [https://t.me/slm\_games](https://t.me/slm\_games)                 |
 
 ## Contracts
